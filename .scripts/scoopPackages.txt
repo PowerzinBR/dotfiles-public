@@ -1,0 +1,11 @@
+eza
+curl
+fd
+fzf
+gcc
+jq
+make
+neovim
+oh-my-posh
+ripgrep
+nvm
