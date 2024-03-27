@@ -1,5 +1,5 @@
- # <! --- github/harshv5094/dotfiles-public/scripts/install.ps1 --- !>
- # Some code belongs to this repository, thanks for your contribution!
+# Some code belongs to this repository, thanks for your contribution!
+# <! --- github/harshv5094/dotfiles-public/scripts/install.ps1 --- !>
 
 function checkScoop {
     if (Test-Path -Path "$env:USERPROFILE\scoop") {
