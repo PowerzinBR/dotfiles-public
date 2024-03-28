@@ -90,7 +90,4 @@ function createPs {
     }
 }
 
-
-
-
 checkScoop
