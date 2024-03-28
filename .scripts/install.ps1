@@ -65,8 +65,8 @@ function installScoop {
 }
 
 function createPs {
-    $psFilePath = Join-Path $env:USERPROFILE 'Documents\PowerShell\Microsoft.Powershell_profile.ps1'
-    $ompConfigPath = Join-Path $PSScriptRoot "Documents\PowerShell\takuya.omp.json"
+    $psFilePath = Join-Path $env:USERPROFILE '~\Documents\PowerShell\Microsoft.Powershell_profile.ps1'
+    $ompConfigPath = Join-Path $PSScriptRoot "~\Documents\PowerShell\takuya.omp.json"
     $psConfigPath = Join-Path $PSScriptRoot "PSConfig.txt"
     $poshConfigPath = Join-Path $PSScriptRoot "PoshConfig.txt"
 
